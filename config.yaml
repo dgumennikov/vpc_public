@@ -25,7 +25,4 @@ variables:
         description: when used will use the value to suffix the names of all converged objects
         type: string
     VPC_TAGS:
-        required: fal
-        description: tags to apply to the vpc
-        type: array
-        default:
+        requi
